@@ -2,6 +2,12 @@
 
 
 
+## How to setup
+
+```
+kubectl apply -f application.yaml
+```
+
 
 Refer to this blog -> https://omega1.hashnode.dev/deploying-your-first-application-on-argo-cd
 
